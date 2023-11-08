@@ -1,5 +1,4 @@
 # DataMining
 Predictive Loan Default Model 
 
-
-Read "FinalProject-CS505-DataMining-Report.pdf"
+[About the project, Analysis & Conclusion: Predictive Loan Default Model](./FinalProject-CS505-DataMining-Report.pdf)
